@@ -75,7 +75,5 @@ git branch -d <имя_файла>
 git log --online --graph
 ```
 
-# Работа с GITHUB
-
 
 
